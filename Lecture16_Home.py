@@ -15,3 +15,8 @@ print(dict.keys())
 print(dict.values())
 
 
+# Expected Output:
+#dict_keys(['1', '2', '3', '4', '5', '6', '7'])
+#dict_values([2914, 4126, 1494, 265, 740, 77, 1])
+
+
